@@ -1,0 +1,53 @@
+.header, .orderingFood{
+    background-color: #FBF0F4;
+}
+.footer{
+    background-color: #0A0808;
+}
+ul li{
+    margin-right: 15px;
+    list-style: none;
+}
+
+li a{
+    color: #150101;
+    text-decoration: none;
+}
+
+.body img{
+    width: 100%;
+}
+
+.body h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 35px;
+}
+.body p{
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.offering img{
+    margin-left: 40%;
+}
+.offering h3, .offer-p  {
+    margin-top: 10px;
+    text-align: center;
+}
+.btn img{
+    background-color: transparent;
+    order: none;
+    outline: none;
+}
+.contacting{
+    width: 100px;
+}
+.contacting input{
+    padding: 20px 40px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.footer-nav a, h4{
+    color: #fff;
+}   
